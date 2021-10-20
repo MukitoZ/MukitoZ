@@ -33,8 +33,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <[![MukitoZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=MukitoZ)](githubstats)
- />
+  [![MukitoZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=MukitoZ)](githubstats)
 
 </details>
 
