@@ -1,12 +1,12 @@
 ### Hello, I'm Vicky - aka MukitoZ 👋
 
 
-## I'm Fresh graduate from Gunadarma University
+## I'm a Mobile Developer!
 
-- 🤔 I'm a basic programmer! (for now)
-- 🤓 I’m currently focus learning Python
+- 🤔 Currently still Junior level! (for now)
+- 🤓 I’m currently focus learning Swift
 - 💼 I’m looking for a jobs that suits me the best
-- 🥅 2021 Goals: Become an advance programmer and build many projects
+- 🥅 2022 Goals: Become an advance programmer and build many projects
 
 ### Connect with me:
 
@@ -27,8 +27,11 @@
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="Swift" width="26px" 
+src="https://user-images.githubusercontent.com/91631855/190547777-b96775a8-9dee-4e18-a50d-481ae1e5d461.png" />][swift]
+[<img align="left" alt="Xcode" width="26px" 
+src="https://user-images.githubusercontent.com/91631855/190548388-7c0dd41e-1804-43c6-a676-2d2dc8c4f650.png" />][xcode]
 
-<br />
 <br />
 
 ---
@@ -53,4 +56,6 @@
 [sql]: https://en.wikipedia.org/wiki/SQL
 [mysql]: https://www.mysql.com/
 [github]: https://github.com/
+[swift]: https://developer.apple.com/swift/
+[xcode]: https://developer.apple.com/xcode/
 [githubstats]: https://github.com/anuraghazra/github-readme-stats
