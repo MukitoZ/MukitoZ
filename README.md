@@ -6,7 +6,7 @@
 - 🤔 Currently still Junior level! (for now)
 - 🤓 I’m currently focus learning Swift
 - 💼 I’m looking for a jobs that suits me the best
-- 🥅 2022 Goals: Become an advance programmer and build many projects
+- 🥅 2022 Goals: Become an Senior level programmer and build many projects
 
 ### Connect with me:
 
